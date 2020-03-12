@@ -1,0 +1,1 @@
+<?php	require_once "fonksiyon.php";	require_once "class/tdk.php";	require_once "class/tema_icerik.php";?>
